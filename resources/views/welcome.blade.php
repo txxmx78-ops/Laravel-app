@@ -81,7 +81,7 @@
 <!-- New Books Section -->
 <x-section>
 <div class="flex items-center justify-between mb-4">
-<h3 class="text-lg font-bold tracking-tight">New Books</h3>
+<h3 class="text-lg font-bold tracking-tight">New Books </h3>
 <a class="text-sm font-medium text-primary" href="{{ route('shop') }}">See All</a>
 </div>
 <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
